@@ -34,32 +34,4 @@ Spring Ride Connect est une plateforme de covoiturage de type BlaBlaCar. Elle pe
    ```
    *Sur Windows, utilisez `.\mvnw.cmd` à la place de `./mvnw`.*
 
-## 📦 Comment déposer ce projet sur GitHub
-
-1. **Initialiser Git** (si ce n'est pas déjà fait) :
-   ```bash
-   git init
-   ```
-
-2. **Ajouter tous les fichiers au suivi Git** (le fichier `.gitignore` filtrera ce qui ne doit pas être envoyé) :
-   ```bash
-   git add .
-   ```
-
-3. **Créer un commit** avec un message descriptif :
-   ```bash
-   git commit -m "Initial commit : projet Spring Ride Connect"
-   ```
-
-4. **Créer un nouveau dépôt sur GitHub** en vous rendant sur [https://github.com/new](https://github.com/new) (ne cochez aucune option d'initialisation de README ou .gitignore).
-
-5. **Lier votre projet local au dépôt distant** :
-   ```bash
-   git branch -M main
-   git remote add origin https://github.com/VOTRE_NOM_UTILISATEUR/NOM_DU_DEPOT.git
-   ```
-
-6. **Pousser votre code vers GitHub** :
-   ```bash
-   git push -u origin main
    ```
